@@ -10,9 +10,10 @@ public class Main {
             new CircleVol(),
             new LucasSeries(),
             new SphereVolum(),
-            new SphereCircumference()
-            new Fibonacci()
-            new CircleArea();
+            new SphereCircumference() ,
+            new Fibonacci(),
+            new CircleArea(),
+            new CircleCircumference(),
 
     };
     public static void main(String[] args) {
