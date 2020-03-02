@@ -12,3 +12,4 @@ public class multiplicationSeries  implements ISubscriber {
         System.out.println("the result of multiplication series is:"+result );
     }
 }
+
