@@ -15,6 +15,7 @@ public class Main {
             new CircleArea(),
             new TwoPowerN(),
             new CircleCircumference(),
+            new multiplicationSeries(),
 
     };
     public static void main(String[] args) {
