@@ -9,7 +9,6 @@ public class LucasSeries implements ISubscriber {
             a = b;
             b = c;
         }
-
         int result = n==0?2:(n==1?1:b);
         System.out.println("Lucas number of input(" + input + ") is: " + result);
     }
