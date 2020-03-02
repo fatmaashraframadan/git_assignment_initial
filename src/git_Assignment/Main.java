@@ -14,6 +14,7 @@ public class Main {
             new Fibonacci(),
             new CircleArea(),
             new CircleCircumference(),
+            new multiplicationSeries(),
 
     };
     public static void main(String[] args) {
