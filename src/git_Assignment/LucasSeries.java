@@ -1,3 +1,7 @@
+package git_Assignment;
+
+import git_Assignment.ISubscriber;
+
 public class LucasSeries implements ISubscriber {
     @Override
     public void notifySubscriber(String input) {

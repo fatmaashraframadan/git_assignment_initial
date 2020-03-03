@@ -1,3 +1,5 @@
+package git_Assignment;
+
 import git_Assignment.ISubscriber;
 
 public class multiplicationSeries  implements ISubscriber {

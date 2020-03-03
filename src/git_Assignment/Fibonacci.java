@@ -1,3 +1,5 @@
+package git_Assignment;
+
 public class Fibonacci implements ISubscriber{
     @Override
     public void notifySubscriber(String input) {
