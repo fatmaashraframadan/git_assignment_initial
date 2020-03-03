@@ -13,6 +13,7 @@ public class Main {
             new SphereCircumference() ,
             new Fibonacci(),
             new CircleArea(),
+            new TwoPowerN(),
             new CircleCircumference(),
 
     };
